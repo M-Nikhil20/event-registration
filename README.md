@@ -1,38 +1,29 @@
 # Event Registration Web Application
+# AIM:
 
-## AIM:
 To design, develop and deploy a web application for event registration.
+# DESIGN STEPS:
+# Step 1:
 
-## DESIGN STEPS:
+Choose a color palette and idea for the webpage with your team members.
+# Step 2:
 
-### Step 1:
+Open Figma and create a new project file and share the invite to your team members.
+# Step 3:
 
+Start making the UI design for web page.
+# Step 4:
 
-### Step 2:
-
-
-### Step 3:
-
-
-### Step 4:
-
-
-### Step 5:
-
-### Step 6:
+After completing the design export it to PDF.
+# Step 5:
 
 Validate the HTML and CSS code.
-
-### Step 6:
+# Step 6:
 
 Publish the website in the given URL.
-
-## DESIGN:
-
-## PROGRAM :
-
-## OUTPUT:
+# OUTPUT:
 
 
-## Result:
+# Result:
 
+Hence the UX design for the Event Registration webpage is done
