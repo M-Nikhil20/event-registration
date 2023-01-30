@@ -23,6 +23,8 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 # OUTPUT:
 
+![image](https://user-images.githubusercontent.com/118707852/215406729-a47f52dc-cb60-4bb2-a17d-41f1b352ca6a.png)
+
 
 # Result:
 
